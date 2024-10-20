@@ -205,30 +205,30 @@ h1 {
 
 .form-container input{
     all: unset;
-    width: calc(100% - 80px);
-    height: 40px;
-    padding: 0 20px;
-    background-color: rgba(219, 226, 239, 0.5);
-    border-radius: 10px;
+    width: calc (100 % - 80 px);
+    height: 40 px;
+    padding: 0 20 px;
+    background-color: rgba (219, 226, 239, 0.5);
+    border-radius: 10 px;
 }
 
 .form-container input::placeholder{
-    color: rgba(225,225,225,0.7);
+    color: rgba (225,225,225,0.7);
 }
 
 .form-container input:focus{
-    outline: 3px solid rgba(225,225,225,0.7);
+    outline: 3 px solid rgba (225,225,225,0.7);
 }
 
 .form-container .btn{
     padding: unset;
-    width:40px;
-    height: 40px;
+    width:40 px;
+    height: 40 px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 100%;
-    margin-bottom: 1px;
+    border-radius: 100 %;
+    margin-bottom: 1 px;
 }
 
 .not-found{
